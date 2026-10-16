@@ -1,0 +1,2 @@
+configuracion1: en caso de ciberataque, abortar toda ejecucion
+configuracion2: encender el pc con el comando am
