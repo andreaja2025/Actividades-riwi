@@ -1,24 +1,25 @@
 # Bitácora · Día 2 · Herramientas de desarrollo
 
-- **Coder:**
-- **Fecha:**
+- **Coder:** ANDREA ARIAS
+- **Fecha:** 14/10/26
 - **TL:**
 
 ---
 
 ## 1. Mi entorno de desarrollo (Etapa 1)
 
-- Versión de Ubuntu:
-- Versión de Python:
-- ¿Dónde está instalado Python? (resultado de `which python3`):
-- Con mis palabras, la diferencia entre un compilador y un intérprete es:
+- Versión de Ubuntu: Ubuntu 26.04.1 LTS
+- Versión de Python: Python 3.14.4
+
+- ¿Dónde está instalado Python? (resultado de `which python3`): /usr/bin/python3
+- Con mis palabras, la diferencia entre un compilador y un intérprete es: El compilador convierte todo el documento en un archivo que entiende la maquina y lo ejecuta por lo que si hay un error de syntaxis no lo va a compilar, en cambio el interprete traduce a lenguaje d emaquina linea por linea, por lo que si hay un error en una linea de codigo la maquina lo hará saber cuando llegue a la linea donde está dicho error.
 - ¿Qué pasó con la línea 4 de `hola.py` y por qué?:
 
 | Herramienta | ¿Qué es? (sistema operativo, editor, intérprete, compilador o navegador) |
 |---|---|
 | Ubuntu | |
 | VS Code | |
-| Python | |
+| Python | | Lenguaje de programación interpretado
 | Chrome | |
 | gcc | |
 
