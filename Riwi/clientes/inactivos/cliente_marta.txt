@@ -1,0 +1,4 @@
+Nombre: Marta Bosques
+Empresa: Panaderia Aurora.
+Estado: inactivo.
+marta@example.com

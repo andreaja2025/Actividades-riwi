@@ -1,0 +1,4 @@
+Número: 002.
+CLiente: Luis Vargas.
+Valor: 200000
+Estado: pendiente.

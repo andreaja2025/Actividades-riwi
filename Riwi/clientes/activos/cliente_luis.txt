@@ -1,0 +1,4 @@
+Nombre: Luis Vargas.
+Empresa: Panaderia Aurora.
+Estado: activo.
+luis@example.com

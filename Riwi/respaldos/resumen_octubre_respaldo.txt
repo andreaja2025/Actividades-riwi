@@ -1,0 +1,6 @@
+Ana dejó de ser cliente
+Ana pasó a ser cliente inactivo
+la factura 001 fue pagada
+Se agrega estado de pagadp a la factura 001
+el proyecto movil fue cancelado
+
